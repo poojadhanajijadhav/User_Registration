@@ -1,0 +1,18 @@
+.errorMsg{color:red}
+.imageUploadAndPreview img{width:100%;}
+.imageUploadAndPreview input[type=file]
+{
+	max-width: 100%;
+	padding: 12px 0; 
+	opacity: 0;
+}
+.imageUploadAndPreview .uploadBtnPan
+{
+	margin-top: -45px;
+	font-size: 18px;
+	text-align: center;
+	font-weight: 800;
+	background-color: #3c8dbc;
+	color: white;
+	padding: 10px 0;
+}
