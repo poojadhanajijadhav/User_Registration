@@ -14,7 +14,7 @@ class Email_manager {
 			'protocol' => 'smtp',
 			'smtp_host' =>  'ssl://stmp.googlemail.com',
 			'smtp_user' => 'poojajadhav1906@gmail.com',
-			'smtp_pass' => 'Anmay@2019',
+			'smtp_pass' => '123456789',
 			'smtp_port' => 465,
 			'smtp_timeout' => '45',
 			'mailtype'  => 'html',
